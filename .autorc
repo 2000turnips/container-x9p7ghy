@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "2000turnips",
+  "repo": "container-x9p7ghy",
+  "name": "2000turnips",
+  "email": "817maxine@gmail.com",
+}
